@@ -19,6 +19,8 @@ Uses:
 `npm run start`
 
 ## Variations
-Master - No UI toolkit < THIS BRANCH >
-Bootstrap - Bootstrap + FontAwesome
-Material - Material Design 
+- Master - No UI toolkit
+- Bootstrap - Bootstrap + FontAwesome
+- Material - Material Design 
+
+[Material](/aheinrich/angular2-basic-starter/tree/material)
