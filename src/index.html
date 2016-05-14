@@ -1,0 +1,43 @@
+<!doctype html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>Template</title>
+  <base href="/">
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- CSS Framework-->
+  <!--<link href="node_modules/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link href="node_modules/font-awesome/css/font-awesome.min.css" rel="stylesheet" >-->
+  
+  <!-- Application customizations-->
+  <!--<link href="public/css/app.css"  rel="stylesheet">-->
+
+  
+  <!-- Polyfill(s) for older browsers -->
+  <script src="node_modules/es6-shim/es6-shim.min.js"></script>
+
+  <!-- ZoneJs -->
+  <script src="node_modules/zone.js/dist/zone.js"></script>
+
+  <!-- Reflection -->
+  <script src="node_modules/reflect-metadata/Reflect.js"></script>
+
+  <!-- Module Loader-->
+  <script src="node_modules/systemjs/dist/system.src.js"></script>
+
+  <!-- SystemJS Configuration -->
+  <script src="system.config.js"></script>
+  <script>
+    System.import('app').catch(function(err){ console.error(err);  });
+  </script>
+
+</head>
+
+<body>
+  <app>Loading...</app>
+</body>
+
+</html>
