@@ -17,3 +17,6 @@ Uses:
 ## testing
 
 `npm run start`
+
+## Variations
+- Bootstrap + FontAwesome branch
