@@ -19,4 +19,6 @@ Uses:
 `npm run start`
 
 ## Variations
-- Bootstrap + FontAwesome branch
+Master - No UI toolkit < THIS BRANCH >
+Bootstrap - Bootstrap + FontAwesome
+Material - Material Design 

@@ -4,6 +4,7 @@ import { Routes, Router, ROUTER_DIRECTIVES } from '@angular/router';
 @Component({
     moduleId: module.id,
     selector: 'app',
+    styleUrls: ['app.component.css'],
     templateUrl: 'app.component.html',
     directives: [ROUTER_DIRECTIVES],
 })
