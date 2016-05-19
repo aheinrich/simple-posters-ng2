@@ -1,4 +1,4 @@
-# angular2-basic-starter
+# ng2-basic-starter
 
 Basic skeleton project for Angular2 projects
 
