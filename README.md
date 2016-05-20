@@ -1,6 +1,6 @@
-# ng2-basic-starter
+# simple-posters
 
-Basic skeleton project for Angular2 projects
+Query movies from TMDB
 
 Uses:
 - Typescript
@@ -13,14 +13,3 @@ Uses:
 ## start
 
 `npm run start`
-
-## testing
-
-`npm run start`
-
-## Variations
-- Master - No UI toolkit
-- Bootstrap - Bootstrap + FontAwesome
-- Material - Material Design 
-
-[Material](/aheinrich/angular2-basic-starter/tree/material)
