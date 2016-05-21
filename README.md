@@ -1,4 +1,4 @@
-# simple-posters
+# simple-posters-ng2
 
 Query movies from TMDB
 
